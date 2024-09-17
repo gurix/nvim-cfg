@@ -29,3 +29,6 @@ let g:onedark_config = {
     \ 'transparent': 'false',
 \}
 colorscheme onedark
+
+:set tabstop=2
+:set shiftwidth=2
